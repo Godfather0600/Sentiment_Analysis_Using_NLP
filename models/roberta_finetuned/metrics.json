@@ -1,0 +1,8 @@
+{
+    "Fine-tune_roberta": {
+        "accuracy": 0.8768,
+        "precision": 0.847610392422031,
+        "recall": 0.8768,
+        "f1-score": 0.8547169525656833
+    }
+}
